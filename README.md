@@ -1,6 +1,6 @@
 # HomePage
 
-[http://home.ustc.edu.cn/~biu/](http://home.ustc.edu.cn/~biu/)
+[http://home.ustc.edu.cn/~biu/doc.html](http://home.ustc.edu.cn/~biu/doc.html)
 
 静态网页
 
